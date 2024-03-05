@@ -1,0 +1,9 @@
+Myproject\pageobjects\conformationPage.class
+Myproject\pageobjects\CartPage.class
+Myproject\pageobjects\checkOutPage.class
+Myproject\pageobjects\ProductCatalogue.class
+Myproject\pageobjects\Landingpage.class
+Myproject\AbstractComponents\AbstractComponent.class
+Myproject\pageobjects\OrderPage.class
+Myproject\pageobjects\App.class
+Myproject\resources\extentReportNG.class
